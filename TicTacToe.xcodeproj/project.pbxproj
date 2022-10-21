@@ -16,6 +16,7 @@
 		A763866D28FF0BCB0020FCD9 /* TicTacToeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A763866C28FF0BCB0020FCD9 /* TicTacToeTests.swift */; };
 		A763867728FF0BCB0020FCD9 /* TicTacToeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A763867628FF0BCB0020FCD9 /* TicTacToeUITests.swift */; };
 		A763867928FF0BCB0020FCD9 /* TicTacToeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A763867828FF0BCB0020FCD9 /* TicTacToeUITestsLaunchTests.swift */; };
+		A76386862901A7580020FCD9 /* CanvasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76386852901A7580020FCD9 /* CanvasView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		A763867228FF0BCB0020FCD9 /* TicTacToeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TicTacToeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A763867628FF0BCB0020FCD9 /* TicTacToeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacToeUITests.swift; sourceTree = "<group>"; };
 		A763867828FF0BCB0020FCD9 /* TicTacToeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacToeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A76386852901A7580020FCD9 /* CanvasView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanvasView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				A763865E28FF0BCB0020FCD9 /* Assets.xcassets */,
 				A763866028FF0BCB0020FCD9 /* LaunchScreen.storyboard */,
 				A763866328FF0BCB0020FCD9 /* Info.plist */,
+				A76386852901A7580020FCD9 /* CanvasView.swift */,
 			);
 			path = TicTacToe;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				A763865A28FF0BC80020FCD9 /* ViewController.swift in Sources */,
 				A763865628FF0BC80020FCD9 /* AppDelegate.swift in Sources */,
+				A76386862901A7580020FCD9 /* CanvasView.swift in Sources */,
 				A763865828FF0BC80020FCD9 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
